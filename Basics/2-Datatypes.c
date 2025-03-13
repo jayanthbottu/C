@@ -12,3 +12,11 @@ printf("Double      : %d\n",d);
 printf("String      : %s\n",ch);
 return 0;
 }
+*/
+Output :
+Integer     : 100
+Float       : 15.900000
+Character   : J
+Double      : 1024021152
+String      : Jayanth
+/*
